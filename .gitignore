@@ -1,0 +1,9 @@
+html/
+img/
+js/
+node_modules/
+sass/
+.project
+gulpfile.js
+index.html
+package.json
